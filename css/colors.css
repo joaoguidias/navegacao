@@ -1,0 +1,9 @@
+:root{
+    --roxo: rgb(159,4,231);
+    --roxo-claro: rgb(238,46,255)
+
+}
+h1{
+    color: red;
+    text-shadow: 2px 2px 2px var(--roxo-claro);
+}
